@@ -1,0 +1,16 @@
+PODS:
+  - ExpandingMenu (0.4.0)
+
+DEPENDENCIES:
+  - ExpandingMenu (~> 0.4)
+
+SPEC REPOS:
+  trunk:
+    - ExpandingMenu
+
+SPEC CHECKSUMS:
+  ExpandingMenu: 3187a4ed1aa1aea85418e444c213e4cd6063c122
+
+PODFILE CHECKSUM: 6b9fd4421543a00235e7fc9dd80400c5489a1923
+
+COCOAPODS: 1.8.4
